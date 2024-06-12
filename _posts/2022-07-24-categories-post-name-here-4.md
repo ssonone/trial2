@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "지표 해설과 분석 결과"
+excerpt: "모니터링의 필요성과 다양한 지표 소개, 지표 분석결과에 대한 요약 결과 설명"
 
 categories:
   - Categories4
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-07-24
-last_modified_at: 2022-07-24
+last_modified_at: 2024-06-12
 ---
 
 ## 🦥 본문

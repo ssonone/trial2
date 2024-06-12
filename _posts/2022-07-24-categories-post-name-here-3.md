@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "전문가 평가"
+excerpt: "준비중입니다."
 
 categories:
   - Categories3
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-07-24
-last_modified_at: 2022-07-24
+last_modified_at: 2024-06-11
 ---
 
 ## 🦥 본문

@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 2018년 선정 10대 미래유망기술 소개와 최근 트렌드"
-excerpt: "본문의 2018년에 발표된 KISTI 10대 미래유망기술을 간략히 소개하고, 논문트렌드, 기술수명주기, 통계적 예측 등을 간단히 제공"
+title: "WoS DB 추출 정보"
+excerpt: "2024 1분기 기준, 2018 10대 미래유망기술에 대한 논문정보"
 
 categories:
   - Categories2
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-07-24
-last_modified_at: 2022-07-24
+last_modified_at: 2024-06-10
 ---
 
 ## 🦥 본문
