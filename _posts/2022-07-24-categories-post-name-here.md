@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "2018년 선정 10대 미래유망기술 소개와 최근 트렌드"
+excerpt: "2018년에 발표된 KISTI 10대 미래유망기술을 간략히 소개하고, 논문트렌드, 기술수명주기, 통계적 예측 등을 간단히 제공 "
 
 categories:
   - Categories1
@@ -12,10 +12,11 @@ permalink: /categories1/post-name-here/
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2024-06-13
+last_modified_at: 2024-10-09
 ---
 
-## 🦥 본문
+## 상세 내용
 
-본문은 여기에 ...
+- 최신 동향 및 2006년부터의 논문 추이(S-curve fitting) 시각화
+   - ...
