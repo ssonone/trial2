@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://ssonone.github.io/
 
   - title: "About"
     url: /about/
 
-  - title: "GitHub"
-    url: https://github.com/choiiis
+  - title: "Where Are They Now?"
+    url: https://science.nasa.gov/mission/voyager/where-are-they-now/
 
   # - title: "Projects"
   #   url: /projects/
@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "KISTI 10대 미래유망기술 목록"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "검증분석용 WOS24Q1 DB정보"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "미래유망기술 검증평가분석"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "창의도전 진행경과"
     url: /categories/categories4/
