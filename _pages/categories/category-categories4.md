@@ -1,9 +1,0 @@
----
-title: "창의도전 진행경과"
-layout: category
-permalink: /categories/categories4/
-author_profile: true
-taxonomy: Categories4
-sidebar:
-  nav: "categories"
----
