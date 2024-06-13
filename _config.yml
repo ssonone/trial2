@@ -100,8 +100,8 @@ analytics:
 author:
   name: "SSONONE" # 블로그 닉네임
   avatar: "/assets/images/octo.png" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
+  bio              : "Free-falling into the **DEEP**"
+  location         : "Deep Sea"
   # email            : "youremailhere@xxxxxx.com"
 
   links: # 사이트 링크
