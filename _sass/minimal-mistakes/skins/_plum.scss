@@ -8,7 +8,9 @@ $text-color: rgb(7, 7, 7) !default;
 $primary-color: #00344f !default;
 // $primary-color: #FF6C02 !default;
 
-$border-color: mix(#fff, $background-color, 20%) !default;
+
+$border-color: #e0e0e0  !default;
+//$border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color:rgba(240, 240, 240, 0.5);
 $code-background-color-dark: rgba(185, 185, 185, 0.25) !default;
 
