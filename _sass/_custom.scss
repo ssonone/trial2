@@ -3,7 +3,7 @@ body {
   color: $gray !important;  // $dark-gray 변수를 사용하여 기본 텍스트 컬러를 설정
 }
 
-.archive__item-title {
+h2 {
   color: $darker-gray !important; // 원하는 색상으로 변경
 }
 
