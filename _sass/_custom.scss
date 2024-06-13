@@ -1,6 +1,6 @@
 // 기본 텍스트 컬러 덮어쓰기
 body {
-  color: $dark-gray !important;  // $dark-gray 변수를 사용하여 기본 텍스트 컬러를 설정
+  color: $gray !important;  // $dark-gray 변수를 사용하여 기본 텍스트 컬러를 설정
 }
 
 .archive__item-title.no_toc {
