@@ -3,9 +3,8 @@ body {
   color: $dark-gray !important;  // $dark-gray 변수를 사용하여 기본 텍스트 컬러를 설정
 }
 
-// archive__item-title 스타일 덮어쓰기
-.archive__item-title {
-  color: $darker-gray !important;  // $dark-gray 변수를 사용하여 텍스트 컬러 설정
+.archive__item-title.no_toc {
+  color: $darker-gray; // 원하는 색상으로 변경
 }
 
 // pagination--pager 스타일 덮어쓰기
