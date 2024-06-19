@@ -42,7 +42,15 @@ last_modified_at: 2024-06-13
 
 - 6년전 미래유망기술로 선정되었던 기술들이 현재에 이르기까지 어떻게 발전해왔는지는 우선 논문 게재 동향을 통해 알아볼 수 있음. 아래 각 기술별 논문 게재 동향을 기술 수명주기 곡선인 S-curve에 fitting해 본 결과를 살펴보면, 대부분의 기술이 여전히 빠르게 기술이 발전하고 있는 변곡점 근처의 단계인 것을 확인할 수 있음.
 
-![2006~2023 WoS 논문 trend](../assets/images/curve_fitting_test4.png)
+### 경로 테스트 
+
+![2006~2023 WoS 논문 trend](../../assets/images/curve_fitting_test4.png)
+
+
+- 절대 경로
+
+![2006~2023 WoS 논문 trend](file:///D:/Git/workspace/trial2/assets/images/curve_fitting_test4.png)
+
 
 - 2018년부터 2023년까지의 논문데이터가 더 업데이트된 이후, 새로이 향후 기술별 발전 가능성을 시계열 모형으로 다시 예측해볼 수 있음.
 
