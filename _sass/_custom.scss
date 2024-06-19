@@ -4,6 +4,7 @@ body {
 }
 
 // 홈화면 상단 타이틀 분리선
+// 아래 효과없는 듯. - 다른 방식으로 수정했음. _plum.scss에서 직접 변경함.
 .masthead {
   border-bottom: 1px solid #ff0000 !important; // 원하는 색상으로 변경
 }
