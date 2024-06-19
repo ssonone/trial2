@@ -34,11 +34,11 @@ last_modified_at: 2024-06-13
       10. 상변화 소재 활용 열에너지 저장
 - 6년전 미래유망기술로 선정되었던 기술들이 현재에 이르기까지 어떻게 발전해왔는지는 우선 논문 게재 동향을 통해 알아볼 수 있음. 아래 각 기술별 논문 게재 동향을 기술 수명주기 곡선인 S-curve에 fitting해본 결과를 살펴보면, 대부분의 기술이 여전히 빠르게 기술이 발전하고 있는 변곡점 근처의 단계인 것을 확인할 수 있음.
 
-![2006~2023 WoS 논문 trend](/assets/images/curve_fitting_test4.png)
+![2006~2023 WoS 논문 trend](D:\Git\workspace\trial2\assets\images\curve_fitting_test4.png)
 
 - 2018년부터 2023년까지의 논문데이터가 더 업데이트된 이후, 새로이 향후 기술별 발전 가능성을 시계열 모형으로 다시 예측해볼 수 있음.
 
-![2018 ARIMA모형기반 재예측](/assets/images/arima_forecast_test2.png)
+![2018 ARIMA모형기반 재예측](D:\Git\workspace\trial2\assets\images\arima_forecast_test2.png)
 
 - 기술수명주기 곡선을 활용한 근사와 ARIMA 모형을 활용한 예측 결과를 바탕으로 다음과 같이 세 유형으로 기술들을 나누어 볼 수 있음.
     - 유형1) 금속3D 프린팅
