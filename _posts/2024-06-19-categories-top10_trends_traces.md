@@ -12,8 +12,8 @@ permalink: /categories3/top10_trends_traces/
 toc: true
 toc_sticky: true
 
-date: 2024-05-21
-last_modified_at: 2024-06-13
+date: 2024-06-21
+last_modified_at: 2024-07-03
 ---
 
 ## 들어가며
