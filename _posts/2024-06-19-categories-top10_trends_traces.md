@@ -58,7 +58,7 @@ last_modified_at: 2024-07-03
   <summary>10개 기술의 최근 동향 소개</summary>
   - 카드 형식을 활용하여, 이미지 + 설명 2~3꼭지
   예시
-  ![2006~2023 WoS 논문 trend](../../assets/images/002.png)
+  <img src="../../assets/images/002.png" alt="예시 기술 이미지" style="margin-left: 20px;">
 
 </details>
 
