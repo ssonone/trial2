@@ -34,12 +34,6 @@ last_modified_at: 2024-07-03
       8. 면역세포치료
       9. 나노유체 이용 에너지 효율화
       10. 상변화 소재 활용 열에너지 저장
-      
-    <details>
-      <summary>첫 번째 항목</summary>
-      첫 번째 항목의 내용입니다.
-    </details>
-      
 
 ## 6년 전 미래유망기술의 변화 추적
 
@@ -60,5 +54,16 @@ last_modified_at: 2024-07-03
 
 ## 참고!
 
-- (참고1, 10개 기술의 최근 동향 소개 (카드 형식, 이미지 + 설명 2~3꼭지))
-- (참고2, 박스처리, 0.7p 이내) S-curve fitting, ARIMA forecasting 방법론 설명
+<details>
+  <summary>10개 기술의 최근 동향 소개</summary>
+  - 카드 형식을 활용하여, 이미지 + 설명 2~3꼭지
+  예시
+  ![2006~2023 WoS 논문 trend](../../assets/images/002.png)
+
+</details>
+
+<details>
+  <summary>유망기술 변화추적 방법론 소개</summary>
+  - S-curve fitting, ARIMA forecasting 방법론 설명
+  - 박스처리하여, 방법론 당 설명 2~3꼭지 정도
+</details>
