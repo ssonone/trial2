@@ -56,14 +56,14 @@ last_modified_at: 2024-07-03
 
 <details>
   <summary>10개 기술의 최근 동향 소개</summary>
-  - 카드 형식을 활용하여, 이미지 + 설명 2~3꼭지
-  예시
-  <img src="../../assets/images/002.png" alt="예시 기술 이미지" style="margin-left: 20px;">
+  - 카드 형식을 활용하여, 이미지 + 설명 2~3꼭지 <br>
+  - 아래 그림 예시<br>
+  <img src="../../assets/images/002.png" alt="예시 기술 이미지" style="width: 200px; margin-left: 20px;">
 
 </details>
 
 <details>
   <summary>유망기술 변화추적 방법론 소개</summary>
-  - S-curve fitting, ARIMA forecasting 방법론 설명
-  - 박스처리하여, 방법론 당 설명 2~3꼭지 정도
+  - S-curve fitting, ARIMA forecasting 방법론 설명<br>
+  - 박스처리하여, 방법론 당 설명 2~3꼭지 정도<br>
 </details>
