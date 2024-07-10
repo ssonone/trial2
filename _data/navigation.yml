@@ -19,10 +19,8 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "KISTI 미래유망기술"
-    url: /categories/categories1/
+    url: /categories/emergingtech/
   - title: "미래기술 검증평가분석"
-    url: /categories/categories3/
+    url: /categories/monotoring/
   - title: "검증분석용 DB정보"
-    url: /categories/categories2/
-#  - title: "창의도전 진행경과"
-#    url: /categories/categories4/
+    url: /categories/database_info/
